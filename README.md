@@ -42,4 +42,7 @@ Use descriptive and concise titles, maintain a logical hierarchy, be consistent 
 A brief overview of the product, its purpose, key features, and its intended audience. Also, include links to documentation or installation instructions.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
-Use a short, clear statement (e.g., “This app helps users track their daily expenses with automated insights.”), followed by a bullet-point list of key features like “✔ Real-time tracking, ✔ Budget analysis, ✔ Cloud synchronization.”
+Use a short, clear statement (e.g., “This app helps users track their daily expenses with automated insights.”), followed by a bullet-point list of key features like “
+Real-time tracking
+Budget analysis
+Cloud synchronization.
